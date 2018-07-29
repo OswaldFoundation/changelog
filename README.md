@@ -4,14 +4,43 @@ All notable changes to Agastya will be documented in this file. These include ch
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
-## 2018-07-30
+## 3.5.0 - 2018-07-30
 ### Added
 - Caching of user agent information and geolocation, so tracking after the first event will be much faster.
 ### Changed
 - Tracking endpoint changed after migrating from MariaDB to InfluxDB.
 
-## 2018-07-30
+## 3.4.0 - 2018-07-30
 ### Fixed
 - In dyslexia-friendly mode, `<i>`'s font is inherited instead of being overwritten (for icon fonts.)
 ### Added
 - Link to "Learn how to enable" under Do Not Track on the settings page.
+
+## 3.3.0 - 2018-07-19
+### Added
+- Built-in plugin support for 50+ more languages with auto-detection.
+- Native + fallback notifications to tell users when something is going on in the background.
+### Changed
+- Instead of redirecting to form for GDPR requests, export and delete are added as part of plugin window.
+
+## 3.2.0 - 2018-07-15
+### Added
+- Brand new universal read aloud. [Learn more](https://blog.oswald.foundation/introducing-universal-screen-reader-on-agastya-827e88a67ce).
+
+## 3.1.0 - 2018-06-30
+### Added
+- New Agastya JavaScript client API for developers using `window.agastya.api()`
+
+## 3.0.1 - 2018-06-26
+### Changed
+- Make plugin window smaller on mobile to reflect changes on the website in background.
+
+## 3.0.0 - 2018-06-09
+### Added
+- Built-in support for multiple languages with auto-detection.
+- CSS class modes like dyslexia-friendly mode and night mode now support custom classes.
+- Option to change the primary color (header, button, etc.) for the plugin.
+- EU support for GDPR and cookie law.
+### Changed
+- Brand new user interface for the plugin window.
+- Better support for single-page apps and progressive web apps.
