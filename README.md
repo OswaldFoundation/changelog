@@ -35,7 +35,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Changed
 - Make plugin window smaller on mobile to reflect changes on the website in background.
 
-## 3.0.0 - 2018-06-09
+## [3.0.0](https://blog.oswald.foundation/introducing-the-new-agastya-privacy-first-and-universal-9a67ef66cb19) - 2018-06-09
 ### Added
 - Built-in support for multiple languages with auto-detection.
 - CSS class modes like dyslexia-friendly mode and night mode now support custom classes.
