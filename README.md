@@ -4,6 +4,12 @@ All notable changes to Agastya will be documented in this file. These include ch
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## 3.5.1 - 2018-08-01
+### Changed
+- Link to learn how to turn Do Not Track on migrated to Oswald Labs Help website
+- Preload "loading" image for faster-feeling UX on clicking the Agastya button
+- Better read aloud panel design for mobile devices
+
 ## 3.5.0 - 2018-07-30
 ### Added
 - Caching of user agent information and geolocation, so tracking after the first event will be much faster.
