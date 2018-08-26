@@ -4,6 +4,12 @@ All notable changes to Agastya will be documented in this file. These include ch
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## 3.5.2 - 2018-08-26
+### Added
+- Added link to Oswald Labs' accessibility policy
+### Changed
+- Fixed rounded corners for the plugin (force border-radius)
+
 ## 3.5.1 - 2018-08-01
 ### Changed
 - Link to learn how to turn Do Not Track on migrated to Oswald Labs Help website
