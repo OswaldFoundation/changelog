@@ -4,6 +4,14 @@ All notable changes to Agastya will be documented in this file. These include ch
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## 3.6.0 - 2018-11-05
+### Added
+- Introducing support for Drift live chat
+
+## 3.5.3 - 2018-08-27
+### Changed
+- Force black color for active read aloud text
+
 ## 3.5.2 - 2018-08-26
 ### Added
 - Added link to Oswald Labs' accessibility policy
