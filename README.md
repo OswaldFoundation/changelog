@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## 3.6.0 - 2018-11-05
 ### Added
 - Introducing support for Drift live chat
+### Fixed
+- Fixed iOS Safari iframe scrolling bug
 
 ## 3.5.3 - 2018-08-27
 ### Changed
@@ -15,7 +17,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## 3.5.2 - 2018-08-26
 ### Added
 - Added link to Oswald Labs' accessibility policy
-### Changed
+### Fixed
 - Fixed rounded corners for the plugin (force border-radius)
 
 ## 3.5.1 - 2018-08-01
