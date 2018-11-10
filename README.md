@@ -4,6 +4,13 @@ All notable changes to Agastya will be documented in this file. These include ch
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## 3.7.0 - 2018-11-10
+### Added
+- Switch between accessibility and chat icons when live chat is enabled
+- Add built-in usage guidelines
+### Changed
+- List user inteface for advanced options
+
 ## 3.6.0 - 2018-11-05
 ### Added
 - Introducing support for Drift live chat
