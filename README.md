@@ -4,6 +4,12 @@ All notable changes to Agastya will be documented in this file. These include ch
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## 3.7.2 - 2018-12-01
+### Changed
+- Migrate database from InfluxDB to ElasticSearch
+- Change infinite limit to 24-hour to geolocation caching
+- Update tracking endpoint to `agastya-secure-tracker`
+
 ## 3.7.1 - 2018-11-26
 ### Changed
 - Update "Do not track" link to new usage guidelines
