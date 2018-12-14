@@ -11,8 +11,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## 3.7.2 - 2018-12-01
 ### Changed
 - Migrate database from InfluxDB to ElasticSearch
-- Change infinite limit to 24-hour to geolocation caching
-- Update tracking endpoint to `agastya-secure-tracker`
+- Change infinite limit to 24-hour for geolocation caching
+- Update tracking endpoint to `secure-agastya-tracker`
 
 ## 3.7.1 - 2018-11-26
 ### Changed
