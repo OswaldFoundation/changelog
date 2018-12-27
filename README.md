@@ -4,6 +4,11 @@ All notable changes to Agastya will be documented in this file. These include ch
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## 3.8.1 - 2018-12-27
+### Changed
+- Changed session and user agent unique keys
+- Better EU detection for cookie law (specific countries not continent)
+
 ## 3.8.0 - 2018-12-14
 ### Added
 - Built-in support for UTM parameters for tracking
