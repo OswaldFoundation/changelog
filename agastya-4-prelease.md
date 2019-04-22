@@ -2,252 +2,989 @@
 
 ## Beta Releases
 
-181 / "Add support for Public Sans (closes #2)" / "2019-04-22T10:50:17.000+05:30"
-180 / "Add global prettier" / "2019-04-22T10:30:55.000+05:30"
-179 / "Add translations and language in settings" / "2019-04-20T19:48:58.000+03:00"
-178 / "Add \"send feedback\" feature" / "2019-04-20T19:28:16.000+03:00"
-177 / "Remove any unnecessary <any>s" / "2019-04-20T18:57:22.000+03:00"
-176 / "Lots of stricter interfaces and types" / "2019-04-20T18:18:43.000+03:00"
-175 / "Add better settings (todo links) and hide branding" / "2019-04-20T17:32:09.000+03:00"
-174 / "Use custom CSS instead of modules for some" / "2019-04-20T17:05:46.000+03:00"
-173 / "Remove prettier from app/plugin for global" / "2019-04-20T16:46:51.000+03:00"
-172 / "Single interfaces for plugin" / "2019-04-20T16:44:07.000+03:00"
-171 / "Finish typings for app" / "2019-04-20T16:37:04.000+03:00"
-170 / "Global interfaces everywhere in app" / "2019-04-20T16:30:37.000+03:00"
-169 / "Stronger types for all other views" / "2019-04-20T16:25:35.000+03:00"
-168 / "Only new interfaces for components" / "2019-04-20T16:19:04.000+03:00"
-167 / "Stronger component types" / "2019-04-20T16:14:48.000+03:00"
-166 / "Fix window.agastya || {} in modules" / "2019-04-20T15:43:52.000+03:00"
-165 / "Add landmark colors" / "2019-04-20T15:31:55.000+03:00"
-164 / "Replace link color with landmark color" / "2019-04-20T15:17:15.000+03:00"
-163 / "Add basic support for link color" / "2019-04-20T15:12:39.000+03:00"
-162 / "Merge branch 'master' of github.com:AnandChowdhary/agastya" / "2019-04-20T08:26:21.000+03:00"
-161 / "Add ignore deep to cookie law" / "2019-04-20T08:26:12.000+03:00"
-160 / "Add support for setting user type" / "2019-04-19T16:16:36.000+02:00"
-159 / "Add support for title in custom mode CSS" / "2019-04-19T16:09:58.000+02:00"
-158 / "Fix uptime icon and scroll to top on navigation" / "2019-04-19T16:03:04.000+02:00"
-157 / "Add data-agastya-ignore-deep to button and frame" / "2019-04-19T15:55:32.000+02:00"
-156 / "Remove value encoding for now" / "2019-04-19T12:07:30.000+02:00"
-155 / "Don't rot" / "2019-04-18T21:07:10.000+02:00"
-154 / "Add strotate" / "2019-04-18T21:01:30.000+02:00"
-153 / "Add support for base64 (not local)" / "2019-04-18T19:30:54.000+02:00"
-152 / "Add support for short codes + safe number" / "2019-04-18T19:27:33.000+02:00"
-151 / "Use data attribute API key, overwrite variables" / "2019-04-18T11:37:04.000+02:00"
-150 / "Use new platform URL" / "2019-04-17T12:38:51.000+02:00"
-149 / "Better object-mapping" / "2019-04-17T09:28:37.000+02:00"
-148 / "Fix+better element to object helper" / "2019-04-17T09:18:44.000+02:00"
-147 / "Update package.json" / "2019-04-16T13:48:14.000+02:00"
-146 / "Update extra-tracking.ts" / "2019-04-16T13:48:02.000+02:00"
-145 / "Update extra-tracking.ts" / "2019-04-15T16:58:23.000+02:00"
-144 / "Use better cache key with date and version" / "2019-04-14T15:49:48.000+02:00"
-143 / "Merge branch 'master' of github.com:AnandChowdhary/agastya" / "2019-04-14T14:50:22.000+02:00"
-142 / "Update azure-pipelines.yml for Azure Pipelines" / "2019-04-14T14:43:34.000+02:00"
-141 / "Prefs -> preferences" / "2019-04-14T14:41:25.000+02:00"
-140 / "Update package.json" / "2019-04-14T09:50:32.000+02:00"
-139 / "Use html, not body, for CSS filter" / "2019-04-14T09:49:14.000+02:00"
-138 / "Add text content and tag name to extra tracker" / "2019-04-09T12:19:02.000+02:00"
-137 / "Fix index.html for demo" / "2019-04-08T11:19:37.000+02:00"
-136 / "Fix cache key error" / "2019-04-08T11:00:52.000+02:00"
-135 / "Add env" / "2019-04-08T10:45:54.000+02:00"
-134 / "Use readFile instead of readJSON" / "2019-04-08T10:27:35.000+02:00"
-133 / "Add environment to meta URL" / "2019-04-08T10:03:46.000+02:00"
-132 / "Add updated deploy script with agastya-version" / "2019-04-08T09:41:52.000+02:00"
-131 / "Add env to deploy script" / "2019-04-08T09:05:05.000+02:00"
-130 / "Add environment name, remove server" / "2019-04-08T09:02:35.000+02:00"
-129 / ":memo: Edited using GitWriter" / "2019-04-08T08:52:42.000+02:00"
-128 / "Update azure-pipelines.yml" / "2019-04-07T20:42:12.000+02:00"
-127 / "Remove classes from frontend too" / "2019-04-07T20:37:27.000+02:00"
-126 / "Sanitize HTML in reading mode" / "2019-04-07T20:29:14.000+02:00"
-125 / "Add copy script" / "2019-04-07T19:55:23.000+02:00"
-124 / "Update azure-pipelines.yml" / "2019-04-05T22:25:55.000+02:00"
-123 / "Update azure-pipelines.yml for Azure Pipelines [skip ci]" / "2019-04-05T22:16:21.000+02:00"
-122 / "Update azure-pipelines.yml with password [skip ci]" / "2019-04-05T22:11:18.000+02:00"
-121 / "Add pipeline status badge" / "2019-04-05T22:05:17.000+02:00"
-120 / "Deploy Agastya after pipeline" / "2019-04-05T21:55:45.000+02:00"
-119 / "Add cache key" / "2019-04-05T20:36:57.000+02:00"
-118 / "Install dependencies before running tests" / "2019-04-05T20:33:17.000+02:00"
-117 / "Add build-test script for CI" / "2019-04-05T20:31:48.000+02:00"
-116 / "Set up CI with Azure Pipelines [skip ci]" / "2019-04-05T20:28:27.000+02:00"
-115 / "Fix bug with Agastya append" / "2019-04-05T20:16:29.000+02:00"
-114 / "Insert Agastya into the beginning of a webpage" / "2019-04-05T11:00:08.000+02:00"
-113 / "Add support for tracking battery percentage" / "2019-04-04T19:51:38.000+02:00"
-112 / ":memo: Edited using GitWriter" / "2019-04-03T14:02:10.000+02:00"
-111 / ":memo: Edited using GitWriter" / "2019-04-03T13:19:12.000+02:00"
-110 / ":memo: Edited using GitWriter" / "2019-04-03T12:49:40.000+02:00"
-109 / "Add POST to deployment server" / "2019-04-03T00:04:56.000+02:00"
-108 / "Fix app-url -> plugin-url" / "2019-04-02T23:55:59.000+02:00"
-107 / "Change port to 5219" / "2019-04-02T23:51:16.000+02:00"
-106 / "Add deployment script back in" / "2019-04-02T23:47:15.000+02:00"
-105 / "Delete iframe folder" / "2019-04-02T23:46:08.000+02:00"
-104 / "Give shell permission" / "2019-04-02T21:45:34.000Z"
-103 / "Add update server script" / "2019-04-02T23:44:22.000+02:00"
-102 / "Add deployment server" / "2019-04-02T23:42:27.000+02:00"
-101 / "Use new base URL for scripts" / "2019-04-02T23:34:01.000+02:00"
-100 / "Update dependencies in deploy script, update meta" / "2019-04-02T23:28:24.000+02:00"
-99 / "Update shell script" / "2019-04-02T23:20:07.000+02:00"
-98 / "Complete deploy bot" / "2019-04-02T23:19:14.000+02:00"
-97 / "Use dynamic app and plugin URLs, add S3 upload" / "2019-04-02T23:07:24.000+02:00"
-96 / "Start working on deployment script" / "2019-04-02T21:24:17.000+02:00"
-95 / "Add support for extra tracking" / "2019-04-02T16:17:56.000+02:00"
-94 / "Send do_not_track parameter" / "2019-04-02T13:42:42.000+02:00"
-93 / "Add support for DNT ignore + fix color button" / "2019-04-02T10:56:40.000+02:00"
-92 / "Add better event listning and Sentry breadcrumbs" / "2019-04-02T10:14:11.000+02:00"
-91 / "Add support for Sentry integration" / "2019-04-02T09:22:15.000+02:00"
-90 / "Move new URL up" / "2019-04-02T00:27:02.000+02:00"
-89 / "Better analytics for multiple measurements" / "2019-04-01T23:59:36.000+02:00"
-88 / "Try fixing hash set interval tracking" / "2019-04-01T03:02:50.000+02:00"
-87 / "Fix header background scroll too" / "2019-04-01T02:52:44.000+02:00"
-86 / "iOS scroll bug try 6" / "2019-04-01T02:43:15.000+02:00"
-85 / "Revert test 5 (didn't work)" / "2019-04-01T02:40:32.000+02:00"
-84 / "Fix iOS test 5" / "2019-04-01T02:39:38.000+02:00"
-83 / "Try fixing iOS scroll bug 3" / "2019-04-01T02:29:13.000+02:00"
-82 / "Try fixing scroll bug 2" / "2019-04-01T02:25:54.000+02:00"
-81 / "Try fixing scroll bug" / "2019-04-01T02:21:42.000+02:00"
-80 / "Add support for deep ignoring" / "2019-03-28T21:04:35.000+01:00"
-79 / "Add !importants" / "2019-03-26T20:30:25.000+01:00"
-78 / "Use try selector as element not selector" / "2019-03-25T21:35:32.000+01:00"
-77 / "Add support for try selector" / "2019-03-25T21:31:53.000+01:00"
-76 / "Use (document.body || document.documentElement)" / "2019-03-25T21:24:15.000+01:00"
-75 / "Return Agastya with \"ready\"" / "2019-03-25T21:21:49.000+01:00"
-74 / "Use object for future configs" / "2019-03-25T20:54:20.000+01:00"
-73 / "Use encode for param read-aloud-link" / "2019-03-25T20:50:46.000+01:00"
-72 / "Fix issue with read aloud link" / "2019-03-25T20:46:02.000+01:00"
-71 / "Add Read Aloud Link API" / "2019-03-25T20:36:38.000+01:00"
-70 / "Change Read Aloud text" / "2019-03-25T20:32:04.000+01:00"
-69 / "Add data-agastya-read-aloud" / "2019-03-25T20:16:36.000+01:00"
-68 / "Add read aloud button to sample page" / "2019-03-25T20:15:22.000+01:00"
-67 / "Trim and better split font name" / "2019-03-24T19:35:50.000+01:00"
-66 / "Fix bug with colon" / "2019-03-24T16:46:02.000+01:00"
-65 / "Remove console.log" / "2019-03-24T15:44:14.000+01:00"
-64 / "Add support for Comic Neue" / "2019-03-24T15:43:46.000+01:00"
-63 / "Add support for [data-agastya-ignore]" / "2019-03-24T15:13:12.000+01:00"
-62 / "Add support for key value" / "2019-03-24T11:00:08.000+01:00"
-61 / "Add support for customization APIs" / "2019-03-22T19:51:43.000+01:00"
-60 / "Update webpack.config.ts" / "2019-03-22T08:49:15.000+01:00"
-59 / "More comprehensive meta.json" / "2019-03-20T17:09:27.000+01:00"
-58 / "Merge branch 'master' of github.com:AnandChowdhary/agastya" / "2019-03-17T12:44:44.000+01:00"
-57 / "Add Google Analytics extension" / "2019-03-17T12:44:31.000+01:00"
-56 / "Update README.md" / "2019-03-17T12:08:58.000+01:00"
-55 / "Delete info.md" / "2019-03-17T12:05:18.000+01:00"
-54 / "Update README.md" / "2019-03-17T12:04:29.000+01:00"
-53 / "Fix polyfills" / "2019-03-17T12:02:33.000+01:00"
-52 / "Add todo" / "2019-03-17T11:58:51.000+01:00"
-51 / "Merge" / "2019-03-17T11:53:59.000+01:00"
-50 / "Track disabling services" / "2019-03-17T11:49:49.000+01:00"
-49 / "Add tracking & progress to read aloud" / "2019-03-17T11:43:14.000+01:00"
-48 / "Complete read aloud" / "2019-03-17T11:09:56.000+01:00"
-47 / "Work on read aloud" / "2019-03-17T10:35:38.000+01:00"
-46 / "Small changes and start read aloud" / "2019-03-16T23:04:50.000+01:00"
-45 / "Add customizable (like translate/contrast) to active list" / "2019-03-16T21:41:30.000+01:00"
-44 / "Add support for uptime robot monitoring" / "2019-03-16T21:01:05.000+01:00"
-43 / "Contrast" / "2019-03-16T19:57:17.000+01:00"
-42 / "Add contrast" / "2019-03-16T19:57:11.000+01:00"
-41 / "Add support for contrast" / "2019-03-16T19:55:27.000+01:00"
-40 / "Add width to iframe" / "2019-03-16T13:18:57.000+01:00"
-39 / "Add base URL for production" / "2019-03-16T13:06:35.000+01:00"
-38 / "Add overflow scrolling to iframe" / "2019-03-16T12:50:43.000+01:00"
-37 / "Add conditional markup" / "2019-03-10T22:45:23.000+01:00"
-36 / "Add basic support for API" / "2019-03-10T22:15:09.000+01:00"
-35 / "Add support for query param modes" / "2019-03-10T21:48:50.000+01:00"
-34 / "Fix parent loading state" / "2019-03-10T21:20:17.000+01:00"
-33 / "Add better frame communication" / "2019-03-10T20:19:00.000+01:00"
-32 / "Add button animation on entry" / "2019-03-10T18:03:11.000+01:00"
-31 / "Work on better communication" / "2019-03-10T17:26:45.000+01:00"
-30 / "Add support for single customizations" / "2019-03-05T19:08:28.000+01:00"
-29 / "Add support for range customizations" / "2019-03-05T18:34:41.000+01:00"
-28 / "Add (temp) icons for new customizations" / "2019-03-05T09:17:20.000+01:00"
-27 / "Fix card template issue" / "2019-03-05T09:11:46.000+01:00"
-26 / "Start working on single customizations, update query string params, a…" / "2019-03-05T08:45:15.000+01:00"
-25 / "Add plugin version in settings" / "2019-03-04T12:45:35.000+01:00"
-24 / "Hopefully fix scroll bug once and for all" / "2019-03-04T12:38:23.000+01:00"
-23 / "Force template on card" / "2019-03-04T12:29:04.000+01:00"
-22 / "Add height to iframe" / "2019-03-04T12:26:52.000+01:00"
-21 / "Add form endpoints" / "2019-03-04T12:02:15.000+01:00"
-20 / "Add Open Dyslexic CDN" / "2019-03-03T23:17:34.000+01:00"
-19 / "Translations, basic form" / "2019-03-03T23:09:12.000+01:00"
-18 / "Add support for captioned and better z-index" / "2019-03-03T20:42:50.000+01:00"
-17 / "Give script permission" / "2019-03-03T18:58:51.000Z"
-16 / "Move index.ts to agastya.ts" / "2019-03-03T19:58:09.000+01:00"
-15 / "Add update script and fix button styles" / "2019-03-03T19:40:16.000+01:00"
-14 / "Add translate" / "2019-03-03T19:26:26.000+01:00"
-13 / "Work on translation" / "2019-03-03T11:50:15.000+01:00"
-12 / "Add support for display none mode" / "2019-03-03T10:06:43.000+01:00"
-11 / "Some translation work" / "2019-03-02T14:12:04.000+01:00"
-10 / "Better vuex config" / "2019-03-02T13:18:35.000+01:00"
-9 / "Add cookie law message in settings" / "2019-03-02T11:43:56.000+01:00"
-8 / "Add keyboard navigation" / "2019-03-02T09:38:39.000+01:00"
-7 / "Merge branch 'v4' of github.com:AnandChowdhary/agastya into v4" / "2019-02-28T17:02:19.000+01:00"
-6 / "Add EU cookie law plugin" / "2019-02-28T17:02:12.000+01:00"
-5 / "Update params.ts" / "2019-02-28T16:05:43.000+01:00"
-4 / "Update params.ts" / "2019-02-28T16:05:12.000+01:00"
-3 / "Add EU cookie law service and updates to services" / "2019-02-27T17:40:12.000+01:00"
-2 / "Add basic support for preferences" / "2019-02-26T15:14:53.000+01:00"
-1 / "Add support for loading integrations" / "2019-02-26T11:59:46.000+01:00"
+#### 181
+✨ Add support for Public Sans font
+📅 2019-04-22 10:50
+
+#### 180
+➕ Add global Prettier
+📅 2019-04-22 10:30
+
+#### 179
+✨ Add translations and language in Settings
+📅 2019-04-20 19:48
+
+#### 178
+✨ Add "Send Feedback" feature
+📅 2019-04-20 19:28
+
+#### 177
+♻️ Remove any unnecessary <any>s
+📅 2019-04-20 18:57
+
+#### 176
+🏷️ Lots of stricter interfaces and types
+📅 2019-04-20 18:18
+
+#### 175
+✨ Add better settings (todo links) and hide branding
+📅 2019-04-20 17:32
+
+#### 174
+🔥 Use custom CSS instead of modules for some
+📅 2019-04-20 17:05
+
+#### 173
+➖ Remove prettier from app/plugin for global
+📅 2019-04-20 16:46
+
+#### 172
+🏷️ Single interfaces for plugin
+📅 2019-04-20 16:44
+
+#### 171
+🏷️ Finish typings for app
+📅 2019-04-20 16:37
+
+#### 170
+🏷️ Global interfaces everywhere in app
+📅 2019-04-20 16:30
+
+#### 169
+🏷️ Stronger types for all other views
+📅 2019-04-20 16:25
+
+#### 168
+🏷️ Only new interfaces for components
+📅 2019-04-20 16:19
+
+#### 167
+🏷️ Stronger component types
+📅 2019-04-20 16:14
+
+#### 166
+🐛 Fix window.agastya || {} in modules
+📅 2019-04-20 15:43
+
+#### 165
+✨ Add landmark colors
+📅 2019-04-20 15:31
+
+#### 164
+🎨 Replace link color with landmark color
+📅 2019-04-20 15:17
+
+#### 163
+✨ Add basic support for link color
+📅 2019-04-20 15:12
+
+#### 162
+🚀 General deployment
+📅 2019-04-20 08:26
+
+#### 161
+✨ Add ignore deep to cookie law
+📅 2019-04-20 08:26
+
+#### 160
+✨ Add support for setting user type
+📅 2019-04-19 16:16
+
+#### 159
+✨ Add support for title in custom mode CSS
+📅 2019-04-19 16:09
+
+#### 158
+🐛 Fix uptime icon and scroll to top on navigation
+📅 2019-04-19 16:03
+
+#### 157
+✨ Add data-agastya-ignore-deep to button and frame
+📅 2019-04-19 15:55
+
+#### 156
+🔥 Remove value encoding for now
+📅 2019-04-19 12:07
+
+#### 155
+🔥 Don't use ROT 13 for now
+📅 2019-04-18 21:07
+
+#### 154
+➕ Add Strotate dependency
+📅 2019-04-18 21:01
+
+#### 153
+✨ Add support for Base 64 (not local)
+📅 2019-04-18 19:30
+
+#### 152
+✨ Add support for short codes + safe number
+📅 2019-04-18 19:27
+
+#### 151
+🔧 Use data attribute API key, overwrite variables
+📅 2019-04-18 11:37
+
+#### 150
+🔧 Use new platform URL
+📅 2019-04-17 12:38
+
+#### 149
+♻️ Better object-mapping
+📅 2019-04-17 09:28
+
+#### 148
+♻️ Fix + better element to object helper
+📅 2019-04-17 09:18
+
+#### 147
+📦 Update package.json version
+📅 2019-04-16 13:48
+
+#### 146
+🐛 Fix another bug with extra-tracking.ts
+📅 2019-04-16 13:48
+
+#### 145
+🐛 Fix bug with extra-tracking.ts
+📅 2019-04-15 16:58
+
+#### 144
+🔧 Use better cache key with date and version
+📅 2019-04-14 15:49
+
+#### 143
+🚀 General deployment
+📅 2019-04-14 14:50
+
+#### 142
+👷 Add build system to CI
+📅 2019-04-14 14:43
+
+#### 141
+🎨 Change Prefs to Preferences
+📅 2019-04-14 14:41
+
+#### 140
+Update package.json
+📅 2019-04-14 09:50
+
+#### 139
+Use html, not body, for CSS filter
+📅 2019-04-14 09:49
+
+#### 138
+✨ Add text content and tag name to extra tracker
+📅 2019-04-09 12:19
+
+#### 137
+Fix index.html for demo
+📅 2019-04-08 11:19
+
+#### 136
+Fix cache key error
+📅 2019-04-08 11:00
+
+#### 135
+✨ Add env
+📅 2019-04-08 10:45
+
+#### 134
+Use readFile instead of readJSON
+📅 2019-04-08 10:27
+
+#### 133
+✨ Add environment to meta URL
+📅 2019-04-08 10:03
+
+#### 132
+✨ Add updated deploy script with agastya-version
+📅 2019-04-08 09:41
+
+#### 131
+✨ Add env to deploy script
+📅 2019-04-08 09:05
+
+#### 130
+✨ Add environment name, remove server
+📅 2019-04-08 09:02
+
+#### 129
+:memo: Edited using GitWriter
+📅 2019-04-08 08:52
+
+#### 128
+Update azure-pipelines.yml
+📅 2019-04-07 20:42
+
+#### 127
+Remove classes from frontend too
+📅 2019-04-07 20:37
+
+#### 126
+Sanitize HTML in reading mode
+📅 2019-04-07 20:29
+
+#### 125
+✨ Add copy script
+📅 2019-04-07 19:55
+
+#### 124
+Update azure-pipelines.yml
+📅 2019-04-05 22:25
+
+#### 123
+Update azure-pipelines.yml for Azure Pipelines [skip ci]
+📅 2019-04-05 22:16
+
+#### 122
+Update azure-pipelines.yml with password [skip ci]
+📅 2019-04-05 22:11
+
+#### 121
+✨ Add pipeline status badge
+📅 2019-04-05 22:05
+
+#### 120
+Deploy Agastya after pipeline
+📅 2019-04-05 21:55
+
+#### 119
+✨ Add cache key
+📅 2019-04-05 20:36
+
+#### 118
+Install dependencies before running tests
+📅 2019-04-05 20:33
+
+#### 117
+✨ Add build-test script for CI
+📅 2019-04-05 20:31
+
+#### 116
+Set up CI with Azure Pipelines [skip ci]
+📅 2019-04-05 20:28
+
+#### 115
+Fix bug with Agastya append
+📅 2019-04-05 20:16
+
+#### 114
+Insert Agastya into the beginning of a webpage
+📅 2019-04-05 11:00
+
+#### 113
+✨ Add support for tracking battery percentage
+📅 2019-04-04 19:51
+
+#### 112
+:memo: Edited using GitWriter
+📅 2019-04-03 14:02
+
+#### 111
+:memo: Edited using GitWriter
+📅 2019-04-03 13:19
+
+#### 110
+:memo: Edited using GitWriter
+📅 2019-04-03 12:49
+
+#### 109
+✨ Add POST to deployment server
+📅 2019-04-03 00:04
+
+#### 108
+Fix app-url -> plugin-url
+📅 2019-04-02 23:55
+
+#### 107
+Change port to 5219
+📅 2019-04-02 23:51
+
+#### 106
+✨ Add deployment script back in
+📅 2019-04-02 23:47
+
+#### 105
+Delete iframe folder
+📅 2019-04-02 23:46
+
+#### 104
+Give shell permission
+📅 2019-04-02 21:45
+
+#### 103
+✨ Add update server script
+📅 2019-04-02 23:44
+
+#### 102
+✨ Add deployment server
+📅 2019-04-02 23:42
+
+#### 101
+Use new base URL for scripts
+📅 2019-04-02 23:34
+
+#### 100
+Update dependencies in deploy script, update meta
+📅 2019-04-02 23:28
+
+#### 99
+Update shell script
+📅 2019-04-02 23:20
+
+#### 98
+Complete deploy bot
+📅 2019-04-02 23:19
+
+#### 97
+✨ Use dynamic app and plugin URLs, add S3 upload
+📅 2019-04-02 23:07
+
+#### 96
+Start working on deployment script
+📅 2019-04-02 21:24
+
+#### 95
+✨ Add support for extra tracking
+📅 2019-04-02 16:17
+
+#### 94
+Send do_not_track parameter
+📅 2019-04-02 13:42
+
+#### 93
+✨ Add support for DNT ignore + fix color button
+📅 2019-04-02 10:56
+
+#### 92
+✨ Add better event listning and Sentry breadcrumbs
+📅 2019-04-02 10:14
+
+#### 91
+✨ Add support for Sentry integration
+📅 2019-04-02 09:22
+
+#### 90
+Move new URL up
+📅 2019-04-02 00:27
+
+#### 89
+Better analytics for multiple measurements
+📅 2019-04-01 23:59
+
+#### 88
+Try fixing hash set interval tracking
+📅 2019-04-01 03:02
+
+#### 87
+Fix header background scroll too
+📅 2019-04-01 02:52
+
+#### 86
+iOS scroll bug try 6
+📅 2019-04-01 02:43
+
+#### 85
+Revert test 5 (didn't work)
+📅 2019-04-01 02:40
+
+#### 84
+Fix iOS test 5
+📅 2019-04-01 02:39
+
+#### 83
+Try fixing iOS scroll bug 3
+📅 2019-04-01 02:29
+
+#### 82
+Try fixing scroll bug 2
+📅 2019-04-01 02:25
+
+#### 81
+Try fixing scroll bug
+📅 2019-04-01 02:21
+
+#### 80
+✨ Add support for deep ignoring
+📅 2019-03-28 21:04
+
+#### 79
+✨ Add !importants
+📅 2019-03-26 20:30
+
+#### 78
+Use try selector as element not selector
+📅 2019-03-25 21:35
+
+#### 77
+✨ Add support for try selector
+📅 2019-03-25 21:31
+
+#### 76
+Use (document.body || document.documentElement)
+📅 2019-03-25 21:24
+
+#### 75
+Return Agastya with \"ready\"
+📅 2019-03-25 21:21
+
+#### 74
+Use object for future configs
+📅 2019-03-25 20:54
+
+#### 73
+Use encode for param read-aloud-link
+📅 2019-03-25 20:50
+
+#### 72
+Fix issue with read aloud link
+📅 2019-03-25 20:46
+
+#### 71
+✨ Add Read Aloud Link API
+📅 2019-03-25 20:36
+
+#### 70
+Change Read Aloud text
+📅 2019-03-25 20:32
+
+#### 69
+✨ Add data-agastya-read-aloud
+📅 2019-03-25 20:16
+
+#### 68
+✨ Add read aloud button to sample page
+📅 2019-03-25 20:15
+
+#### 67
+Trim and better split font name
+📅 2019-03-24 19:35
+
+#### 66
+Fix bug with colon
+📅 2019-03-24 16:46
+
+#### 65
+Remove console.log
+📅 2019-03-24 15:44
+
+#### 64
+✨ Add support for Comic Neue
+📅 2019-03-24 15:43
+
+#### 63
+✨ Add support for [data-agastya-ignore]
+📅 2019-03-24 15:13
+
+#### 62
+✨ Add support for key value
+📅 2019-03-24 11:00
+
+#### 61
+✨ Add support for customization APIs
+📅 2019-03-22 19:51
+
+#### 60
+Update webpack.config.ts
+📅 2019-03-22 08:49
+
+#### 59
+More comprehensive meta.json
+📅 2019-03-20 17:09
+
+#### 58
+🚀 General deployment
+📅 2019-03-17 12:44
+
+#### 57
+✨ Add Google Analytics extension
+📅 2019-03-17 12:44
+
+#### 56
+Update README.md
+📅 2019-03-17 12:08
+
+#### 55
+Delete info.md
+📅 2019-03-17 12:05
+
+#### 54
+Update README.md
+📅 2019-03-17 12:04
+
+#### 53
+Fix polyfills
+📅 2019-03-17 12:02
+
+#### 52
+✨ Add todo
+📅 2019-03-17 11:58
+
+#### 51
+Merge
+📅 2019-03-17 11:53
+
+#### 50
+Track disabling services
+📅 2019-03-17 11:49
+
+#### 49
+✨ Add tracking & progress to read aloud
+📅 2019-03-17 11:43
+
+#### 48
+Complete read aloud
+📅 2019-03-17 11:09
+
+#### 47
+Work on read aloud
+📅 2019-03-17 10:35
+
+#### 46
+Small changes and start read aloud
+📅 2019-03-16 23:04
+
+#### 45
+✨ Add customizable (like translate/contrast) to active list
+📅 2019-03-16 21:41
+
+#### 44
+✨ Add support for uptime robot monitoring
+📅 2019-03-16 21:01
+
+#### 43
+Contrast
+📅 2019-03-16 19:57
+
+#### 42
+✨ Add contrast
+📅 2019-03-16 19:57
+
+#### 41
+✨ Add support for contrast
+📅 2019-03-16 19:55
+
+#### 40
+✨ Add width to iframe
+📅 2019-03-16 13:18
+
+#### 39
+✨ Add base URL for production
+📅 2019-03-16 13:06
+
+#### 38
+✨ Add overflow scrolling to iframe
+📅 2019-03-16 12:50
+
+#### 37
+✨ Add conditional markup
+📅 2019-03-10 22:45
+
+#### 36
+✨ Add basic support for API
+📅 2019-03-10 22:15
+
+#### 35
+✨ Add support for query param modes
+📅 2019-03-10 21:48
+
+#### 34
+Fix parent loading state
+📅 2019-03-10 21:20
+
+#### 33
+✨ Add better frame communication
+📅 2019-03-10 20:19
+
+#### 32
+✨ Add button animation on entry
+📅 2019-03-10 18:03
+
+#### 31
+Work on better communication
+📅 2019-03-10 17:26
+
+#### 30
+✨ Add support for single customizations
+📅 2019-03-05 19:08
+
+#### 29
+✨ Add support for range customizations
+📅 2019-03-05 18:34
+
+#### 28
+✨ Add (temp) icons for new customizations
+📅 2019-03-05 09:17
+
+#### 27
+Fix card template issue
+📅 2019-03-05 09:11
+
+#### 26
+Start working on single customizations, update query string params, a…
+📅 2019-03-05 08:45
+
+#### 25
+✨ Add plugin version in settings
+📅 2019-03-04 12:45
+
+#### 24
+Hopefully fix scroll bug once and for all
+📅 2019-03-04 12:38
+
+#### 23
+Force template on card
+📅 2019-03-04 12:29
+
+#### 22
+✨ Add height to iframe
+📅 2019-03-04 12:26
+
+#### 21
+✨ Add form endpoints
+📅 2019-03-04 12:02
+
+#### 20
+✨ Add Open Dyslexic CDN
+📅 2019-03-03 23:17
+
+#### 19
+Translations, basic form
+📅 2019-03-03 23:09
+
+#### 18
+✨ Add support for captioned and better z-index
+📅 2019-03-03 20:42
+
+#### 17
+Give script permission
+📅 2019-03-03 18:58
+
+#### 16
+Move index.ts to agastya.ts
+📅 2019-03-03 19:58
+
+#### 15
+✨ Add update script and fix button styles
+📅 2019-03-03 19:40
+
+#### 14
+✨ Add translate
+📅 2019-03-03 19:26
+
+#### 13
+Work on translation
+📅 2019-03-03 11:50
+
+#### 12
+✨ Add support for display none mode
+📅 2019-03-03 10:06
+
+#### 11
+Some translation work
+📅 2019-03-02 14:12
+
+#### 10
+Better vuex config
+📅 2019-03-02 13:18
+
+#### 9
+✨ Add cookie law message in settings
+📅 2019-03-02 11:43
+
+#### 8
+✨ Add keyboard navigation
+📅 2019-03-02 09:38
+
+#### 7
+🚀 General deployment
+📅 2019-02-28 17:02
+
+#### 6
+✨ Add EU cookie law plugin
+📅 2019-02-28 17:02
+
+#### 5
+Update params.ts
+📅 2019-02-28 16:05
+
+#### 4
+Update params.ts
+📅 2019-02-28 16:05
+
+#### 3
+✨ Add EU cookie law service and updates to services
+📅 2019-02-27 17:40
+
+#### 2
+✨ Add basic support for preferences
+📅 2019-02-26 15:14
+
+#### 1
+✨ Add support for loading integrations
+📅 2019-02-26 11:59
+
 
 ## Alpha Releases
 
-65 / "Add .env" / "2019-02-24T22:34:41.000+01:00"
-64 / "Fix a bunch of configuration" / "2019-02-24T22:17:38.000+01:00"
-63 / "Clean up and use variables" / "2019-02-24T21:32:23.000+01:00"
-62 / "Add settings" / "2019-02-24T21:21:34.000+01:00"
-61 / "Add 3 modes" / "2019-02-24T18:43:11.000+01:00"
-60 / "Remove build from precommit hook" / "2019-02-24T16:38:09.000+01:00"
-59 / "Remove dist" / "2019-02-24T16:37:31.000+01:00"
-58 / "Add support for services" / "2019-02-24T16:26:13.000+01:00"
-57 / "Add support for cache key in build process" / "2019-02-24T15:59:54.000+01:00"
-56 / "Fix active script modes" / "2019-02-24T15:44:40.000+01:00"
-55 / "Reset all" / "2019-02-24T15:37:28.000+01:00"
-54 / "Much better active" / "2019-02-24T15:32:34.000+01:00"
-53 / "Remove extra track" / "2019-02-24T15:06:00.000+01:00"
-52 / "Active modes component" / "2019-02-24T14:41:42.000+01:00"
-51 / "Button colors" / "2019-02-24T14:15:37.000+01:00"
-50 / "Config colors inside plugin" / "2019-02-24T14:00:10.000+01:00"
-49 / "Color button based on constant" / "2019-02-24T13:32:52.000+01:00"
-48 / "Better modes" / "2019-02-21T21:48:34.000+01:00"
-47 / "Store session_id fix" / "2019-02-20T19:19:19.000+01:00"
-46 / "Add support for preinitialized if worked before" / "2019-02-20T18:38:36.000+01:00"
-45 / "Add unappend and better calling support" / "2019-02-20T18:32:38.000+01:00"
-44 / "Merge branch 'v4' of github.com:AnandChowdhary/agastya into v4" / "2019-02-20T17:44:35.000+01:00"
-43 / "Add real tracking" / "2019-02-20T17:44:05.000+01:00"
-42 / "Fix delete syntax" / "2019-02-19T15:21:29.000+01:00"
-41 / "Add on and off events" / "2019-02-19T15:20:35.000+01:00"
-40 / "Fix errors with CSS storage + display" / "2019-02-18T15:50:56.000+01:00"
-39 / "Add version from package" / "2019-02-18T14:47:07.000+01:00"
-38 / "Emit events and fetch params" / "2019-02-18T12:42:24.000+01:00"
-37 / "Add support for precommit increment package" / "2019-02-18T11:09:15.000+01:00"
-36 / "Add more tracking features" / "2019-02-18T10:57:49.000+01:00"
-35 / "Better loading and extra styles" / "2019-02-17T20:16:40.000+01:00"
-34 / "Add loading messages and tracking" / "2019-02-17T19:22:49.000+01:00"
-33 / "Add polyfills, loading class" / "2019-02-17T18:25:41.000+01:00"
-32 / "Add some templates" / "2019-02-17T17:45:47.000+01:00"
-31 / "Add i18n, share" / "2019-02-17T17:13:38.000+01:00"
-30 / "Add default font, globals" / "2019-02-17T15:54:25.000+01:00"
-29 / "Add dist back and global details" / "2019-02-17T15:14:11.000+01:00"
-28 / "Add font loading setup" / "2019-02-17T08:25:10.000+01:00"
-27 / "Use dist + style improvements" / "2019-02-17T07:25:51.000+01:00"
-26 / "Add basic CSS injection" / "2019-02-16T19:00:22.000+01:00"
-25 / "Make plugin work" / "2019-02-16T18:26:26.000+01:00"
-24 / "Add some frame code" / "2019-02-16T17:49:28.000+01:00"
-23 / "Name library Agastya" / "2019-02-16T15:54:43.000+01:00"
-22 / "Start plugin" / "2019-02-16T15:37:09.000+01:00"
-21 / "Remove plugin" / "2019-02-15T18:50:19.000+01:00"
-20 / "Add support for ?ref param" / "2019-02-13T11:57:36.000+01:00"
-19 / "Start plugin project" / "2019-02-09T17:29:48.000+01:00"
-18 / "Use template for mode" / "2019-02-07T07:47:43.000+01:00"
-17 / "Add support for active card" / "2019-02-06T21:51:55.000+01:00"
-16 / "Add persisted state with customizations" / "2019-02-06T21:12:52.000+01:00"
-15 / "Add customization store" / "2019-02-06T20:38:32.000+01:00"
-14 / "Better background element" / "2019-02-06T18:16:09.000+01:00"
-13 / "Add buttons" / "2019-02-05T18:26:10.000+01:00"
-12 / "Better UX" / "2019-02-04T21:17:47.000+01:00"
-11 / "Add focus states" / "2019-02-04T18:58:05.000+01:00"
-10 / "Add more customize options" / "2019-02-04T18:36:49.000+01:00"
-9 / "Add modes" / "2019-02-03T19:21:40.000+01:00"
-8 / "Better icons" / "2019-02-03T18:17:26.000+01:00"
-7 / "Support for mode cards" / "2019-02-03T16:51:58.000+01:00"
-6 / "Fix errors and better system" / "2019-02-03T15:39:07.000+01:00"
-5 / "API" / "2019-02-02T11:43:04.000+01:00"
-4 / "Fix types" / "2019-02-02T09:55:20.000+01:00"
-3 / "Add prototype" / "2019-02-02T02:11:31.000+01:00"
-2 / "Home" / "2019-02-02T01:21:51.000+01:00"
-1 / "Make app" / "2019-02-02T00:05:21.000+01:00"
+#### 65
+✨ Add .env
+📅 2019-02-24 22:34
+
+#### 64
+Fix a bunch of configuration
+📅 2019-02-24 22:17
+
+#### 63
+Clean up and use variables
+📅 2019-02-24 21:32
+
+#### 62
+✨ Add settings
+📅 2019-02-24 21:21
+
+#### 61
+✨ Add 3 modes
+📅 2019-02-24 18:43
+
+#### 60
+Remove build from precommit hook
+📅 2019-02-24 16:38
+
+#### 59
+Remove dist
+📅 2019-02-24 16:37
+
+#### 58
+✨ Add support for services
+📅 2019-02-24 16:26
+
+#### 57
+✨ Add support for cache key in build process
+📅 2019-02-24 15:59
+
+#### 56
+Fix active script modes
+📅 2019-02-24 15:44
+
+#### 55
+Reset all
+📅 2019-02-24 15:37
+
+#### 54
+Much better active
+📅 2019-02-24 15:32
+
+#### 53
+Remove extra track
+📅 2019-02-24 15:06
+
+#### 52
+Active modes component
+📅 2019-02-24 14:41
+
+#### 51
+Button colors
+📅 2019-02-24 14:15
+
+#### 50
+Config colors inside plugin
+📅 2019-02-24 14:00
+
+#### 49
+Color button based on constant
+📅 2019-02-24 13:32
+
+#### 48
+Better modes
+📅 2019-02-21 21:48
+
+#### 47
+Store session_id fix
+📅 2019-02-20 19:19
+
+#### 46
+✨ Add support for preinitialized if worked before
+📅 2019-02-20 18:38
+
+#### 45
+✨ Add unappend and better calling support
+📅 2019-02-20 18:32
+
+#### 44
+🚀 General deployment
+📅 2019-02-20 17:44
+
+#### 43
+✨ Add real tracking
+📅 2019-02-20 17:44
+
+#### 42
+Fix delete syntax
+📅 2019-02-19 15:21
+
+#### 41
+✨ Add on and off events
+📅 2019-02-19 15:20
+
+#### 40
+Fix errors with CSS storage + display
+📅 2019-02-18 15:50
+
+#### 39
+✨ Add version from package
+📅 2019-02-18 14:47
+
+#### 38
+Emit events and fetch params
+📅 2019-02-18 12:42
+
+#### 37
+✨ Add support for precommit increment package
+📅 2019-02-18 11:09
+
+#### 36
+✨ Add more tracking features
+📅 2019-02-18 10:57
+
+#### 35
+Better loading and extra styles
+📅 2019-02-17 20:16
+
+#### 34
+✨ Add loading messages and tracking
+📅 2019-02-17 19:22
+
+#### 33
+✨ Add polyfills, loading class
+📅 2019-02-17 18:25
+
+#### 32
+✨ Add some templates
+📅 2019-02-17 17:45
+
+#### 31
+✨ Add i18n, share
+📅 2019-02-17 17:13
+
+#### 30
+✨ Add default font, globals
+📅 2019-02-17 15:54
+
+#### 29
+✨ Add dist back and global details
+📅 2019-02-17 15:14
+
+#### 28
+✨ Add font loading setup
+📅 2019-02-17 08:25
+
+#### 27
+Use dist + style improvements
+📅 2019-02-17 07:25
+
+#### 26
+✨ Add basic CSS injection
+📅 2019-02-16 19:00
+
+#### 25
+Make plugin work
+📅 2019-02-16 18:26
+
+#### 24
+✨ Add some frame code
+📅 2019-02-16 17:49
+
+#### 23
+Name library Agastya
+📅 2019-02-16 15:54
+
+#### 22
+Start plugin
+📅 2019-02-16 15:37
+
+#### 21
+Remove plugin
+📅 2019-02-15 18:50
+
+#### 20
+✨ Add support for ?ref param
+📅 2019-02-13 11:57
+
+#### 19
+Start plugin project
+📅 2019-02-09 17:29
+
+#### 18
+Use template for mode
+📅 2019-02-07 07:47
+
+#### 17
+✨ Add support for active card
+📅 2019-02-06 21:51
+
+#### 16
+✨ Add persisted state with customizations
+📅 2019-02-06 21:12
+
+#### 15
+✨ Add customization store
+📅 2019-02-06 20:38
+
+#### 14
+Better background element
+📅 2019-02-06 18:16
+
+#### 13
+✨ Add buttons
+📅 2019-02-05 18:26
+
+#### 12
+Better UX
+📅 2019-02-04 21:17
+
+#### 11
+✨ Add focus states
+📅 2019-02-04 18:58
+
+#### 10
+✨ Add more customize options
+📅 2019-02-04 18:36
+
+#### 9
+✨ Add modes
+📅 2019-02-03 19:21
+
+#### 8
+Better icons
+📅 2019-02-03 18:17
+
+#### 7
+Support for mode cards
+📅 2019-02-03 16:51
+
+#### 6
+Fix errors and better system
+📅 2019-02-03 15:39
+
+#### 5
+API
+📅 2019-02-02 11:43
+
+#### 4
+Fix types
+📅 2019-02-02 09:55
+
+#### 3
+✨ Add prototype
+📅 2019-02-02 02:11
+
+#### 2
+✨ Add "Home" view (/)
+📅 2019-02-02 01:21
+
+#### 1
+Build of initial Vue TypeScript app
+📅 2019-02-02 00:05
