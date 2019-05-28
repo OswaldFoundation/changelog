@@ -4,6 +4,24 @@ All notable changes to Agastya will be documented in this file. These include ch
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## 4.1 - 2019-05-28
+
+### Added
+- Support for custom elements
+
+## [4.0](https://blog.oswald.foundation/introducing-agastya-4-augmenta11y-555b536f62df)
+
+### Added
+
+- User customization (fonts, colors, etc.)
+- Agastya App Store
+- Support for Agastya Admin
+
+### Changed
+- Brand new user interface for the plugin window
+- More developer-friendly APIs and methods
+- Event emitting and promise-based API
+
 ## 3.8.2 - 2019-02-13
 
 ### Changed
