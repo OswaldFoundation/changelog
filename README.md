@@ -4,6 +4,42 @@ All notable changes to Agastya will be documented in this file. These include ch
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## 4.3.6 - 2019-07-26
+
+### Fixed
+- Internal bug fixes
+
+## 4.3.5 - 2019-07-01
+
+### Changed
+- Better internal caching of static files
+
+## 4.3 - 2019-06-28
+
+### Added
+- Internal updating utility to Platform APIs
+
+### Fixed
+- Fix bug with Do Not Track and battery levels
+
+## 4.2 - 2019-06-24
+
+### Added
+- Internal toolkit for faster deployments
+
+### Changed
+- Updated deployment process to new servers
+
+## 4.1.3 - 2019-06-13
+
+### Added
+- Support for landmark color customization
+
+## 4.1.2 - 2019-06-06
+
+### Changed
+- Better local storage for user customizations
+
 ## 4.1 - 2019-05-28
 
 ### Added
