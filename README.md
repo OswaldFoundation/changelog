@@ -4,6 +4,22 @@ All notable changes to Agastya will be documented in this file. These include ch
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## 4.5.1 - 2019-08-05
+
+### Fixed
+- Fixed bug with Uptime Robot card
+
+## 4.5.0 - 2019-08-05
+
+### Added
+- New language-based voices in Read Aloud
+
+### Fixed
+- Fixed bug with Read Aloud not working multiple times on the same page
+
+### Changed
+- Significantly faster event tracking
+
 ## 4.4.0 - 2019-07-30
 
 ### Added
