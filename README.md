@@ -4,6 +4,22 @@ All notable changes to Agastya will be documented in this file. These include ch
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## 4.6.0 - 2019-08-06
+
+### Added
+- Ignore duplicate tracking requests in 1 second
+
+### Changed
+- Use Tracking plugin to track SPA/PWA pageviews
+
+### Removed
+- Remove on page change communication in SPA/PWAs
+
+## 4.5.2 - 2019-08-05
+
+### Fixed
+- Change ID of Agastya script to prevent collision with v4.4
+
 ## 4.5.1 - 2019-08-05
 
 ### Fixed
