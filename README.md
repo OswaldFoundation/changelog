@@ -4,6 +4,12 @@ All notable changes to Agastya will be documented in this file. These include ch
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## 4.7.1 - 2019-08-08
+
+### Changed
+- Updated link to information about Do Not Track
+- Updated link to details for "What we track"
+
 ## 4.7.0 - 2019-08-07
 
 ### Added
