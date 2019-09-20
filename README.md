@@ -6,33 +6,33 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## 4.14.0 - 2019-09-20
 
-## Added
+### Added
 - Support for tracking 5 "basic" custom values
 
-## Changed
+### Changed
 - Dialogflow integration now tracks response indent ID
 
 ## 4.13.0 - 2019-09-03
 
-## Added
+### Added
 - Support for button size customization
 
 ## 4.12.0 - 2019-08-31
 
-## Added
+### Added
 - Support for new Oswald Labs Platform APIs
 
-## Changed
+### Changed
 - CDN URL for Agastya app
 
 ## 4.11.0 - 2019-08-22
 
-## Added
+### Added
 - Track mouse over on Agastya icon
 
 ## 4.10.0 - 2019-08-21
 
-## Added
+### Added
 - Lexend font family in reading font
 
 ## 4.9.1 - 2019-08-14
