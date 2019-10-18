@@ -4,6 +4,14 @@ All notable changes to Agastya will be documented in this file. These include ch
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## 4.15.0 - 2019-10-17
+
+### Added
+- Support for custom button icons
+
+### Changed
+- Updated interface for "Get in touch" form
+
 ## 4.14.0 - 2019-09-20
 
 ### Added
